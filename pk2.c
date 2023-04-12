@@ -3,7 +3,7 @@
 #include <unistd.h>
 #include <string.h>
 #include <dirent.h>
-
+// Created the code 
 int main(int argc, char *argv[]) {
     // Check if there are enough arguments
     if (argc != 3) {
